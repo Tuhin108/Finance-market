@@ -1,0 +1,6 @@
+numpy==2.3.3
+pandas==2.3.3
+plotly==6.0.0
+pycoingecko==3.2.0
+streamlit==1.49.1
+yfinance==0.2.65
