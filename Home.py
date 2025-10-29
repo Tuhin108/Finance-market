@@ -14,7 +14,7 @@ st.markdown(
     """
 )
 st.markdown("---")
-st.markdown("Many Customisation Options are available in the Sidebar, do check each and every option out.")
+st.markdown("Try out the Customisation Options that are available in the Sidebar.")
 st.markdown("Run `streamlit run Home.py` to open the app. Adjust refresh intervals on each page (default 5s).")
 st.markdown("Made by Tuhin with ❤️.")
 
