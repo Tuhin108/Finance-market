@@ -4,7 +4,8 @@ st.set_page_config(page_title="Finance Market (INR)", layout="wide")
 st.title("📊 Finance Market (INR)")
 st.markdown(
     """
-    This app alone can help you to decide your Trade. Use the Customization options, decide wisely and make your see your money grow 💹
+    This app alone can help you to decide your Trade. Use the Customization options, decide wisely and make your see your money grow 💹.
+    
     Welcome — this app has three pages:
     - 🥇 **Gold (INR)** — Gold price converted to INR (USD→INR * Gold USD)
     - 💱 **Forex (INR)** — Major forex vs INR (USDINR, EURINR, GBPINR, JPYINR, AUDINR)
