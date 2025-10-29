@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.set_page_config(page_title="Finance Analyzer (INR)", layout="wide")
-st.title("📊 Finance Analyzer (INR)")
+st.set_page_config(page_title="Finance Market (INR)", layout="wide")
+st.title("📊 Finance Market (INR)")
 st.markdown(
     """
     Welcome — this app has three pages:
