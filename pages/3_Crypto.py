@@ -13,7 +13,7 @@ st.title("₿ Crypto (INR) Analyzer")
 cg = CoinGeckoAPI()
 
 # ----- Controls -----
-top_n = st.sidebar.slider("Top N coins (to list)", 5, 50, 20)
+top_n = st.sidebar.slider("Top N coins (to list)", 5, 50, 5)
 days = st.sidebar.slider("History (days)", 1, 180, 30)
 refresh = st.sidebar.slider("Auto-refresh (seconds)", 1, 60, 5)
 
