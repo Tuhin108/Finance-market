@@ -1,4 +1,4 @@
-Deployed in - https://finance-market.streamlit.app/Crypto
+Deployed in - https://finance-market.streamlit.app/
 
 If you see app is sleeping 😴.
 
